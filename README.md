@@ -1,70 +1,72 @@
-# Getting Started with Create React App
+# 👋 Hello, I'm Parth Vasoya
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🎓 Beginner Developer | Flutter & Full-Stack Enthusiast | Learning by Building
 
-## Available Scripts
+Welcome to my GitHub profile! I'm currently learning and working on real-world projects to improve my skills in mobile and web development using Flutter, Node.js, .NET, and databases like MongoDB and SQL Server.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🛠️ Tech Stack
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Languages**: Dart, JavaScript, C#
+- **Mobile**: Flutter
+- **Backend**: Node.js, Express.js, .NET
+- **Databases**: MongoDB, SQL Server
+- **Tools**: Git, Postman, VS Code, Visual Studio
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 📁 Projects
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 🌾 Farmer Direct Market
+A mobile application where farmers can sell their products directly to customers without bargaining. Customers can browse and buy fresh produce straight from local farmers.
 
-### `npm run build`
+- **Frontend**: Flutter  
+- **Backend**: Node.js  
+- **Database**: MongoDB
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 📦 Inventory Management System
+A basic inventory management system to keep track of products, quantities, and categories. Suitable for small stores or warehouses.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **Backend**: .NET  
+- **Database**: SQL Server
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### 🍽️ Food Recipes App
+A recipe sharing and browsing app where users can explore different food items and their preparation steps. Users can also save their favorite recipes.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- **Frontend**: Flutter  
+- **Backend**: Node.js  
+- **Database**: MongoDB
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 🏅 Certifications & Hackathons
 
-## Learn More
+- 🎖️ **ANVESHANA - A NATIONAL LEVEL HACKATHON 2024 (36 Hours)**  
+  Participated at Atmiya University — presented innovative project ideas and built practical solutions in a team environment.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- 🛠️ **12-Hour Angular Workshop + Hackathon**  
+  Organized by Darshan University — worked on a real-time frontend project using Angular.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+## 🌐 Languages Known
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- 💬 Gujarati (Native)
+- 💬 Hindi (Fluent)
+- 💬 English (Fluent)
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 📫 Contact
 
-### Making a Progressive Web App
+- 📧 Email: vasoya421@gmail.com 
+- 🔗 [LinkedIn]([https://www.linkedin.com/in/your-linkedin-id](https://www.linkedin.com/in/vasoya-parth-82a69224b))
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+---
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Thanks for visiting my GitHub! I'm still learning and building — more projects coming soon 🚀
