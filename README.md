@@ -1,125 +1,147 @@
-# 🚀 Parth Vasoya
+# Parth Vasoya
 
-### Cloud & DevOps Engineer • Kubernetes • Real-Time Systems • Full-Stack (React + Node)
-
----
-
-## 🧠 Who Am I
-
-I build and operate **scalable, production-grade systems**.
-
-Started with full-stack development, now focused on **cloud infrastructure, Kubernetes, and real-time communication platforms**. I don’t just write code — I design systems that run reliably under load.
+Cloud & DevOps Engineer • Kubernetes • Real-Time Systems • Full-Stack (React + Node)
 
 ---
 
-## ⚡ What I Do
+## About Me
 
-- Architect and manage **cloud-native infrastructure on AWS**
-- Deploy and scale applications on **Kubernetes (EKS)**
-- Build and operate **real-time systems using LiveKit (self-hosted)**
-- Design **CI/CD pipelines** for automated deployments
-- Work with **backend systems (Node.js)** and modern web apps (React)
+I design and operate **scalable, production-grade systems** on AWS.
+
+My work focuses on **cloud-native infrastructure, Kubernetes orchestration, and real-time communication platforms**. I approach engineering from a systems perspective — prioritizing reliability, automation, and performance under load.
 
 ---
 
-## ☁️ Core Stack
+## Core Expertise
 
-### 🚀 Cloud & Infrastructure
-- AWS (EKS, Amazon Connect (CCaaS), EC2, S3, IAM, CloudFront, CloudWatch)
-- Kubernetes (EKS, HPA, scaling strategies)
-- Terraform (modular Infrastructure as Code)
-
-### ⚙️ DevOps & Automation
-- GitHub Actions (CI/CD pipelines)
-- Docker (containerized workloads)
-- Environment-based deployments (development / staging / production)
-
-### 💻 Application Layer
-- React (frontend)
-- Node.js (backend APIs, services)
-
-### 🗄️ Data Layer
-- MongoDB (flexible NoSQL workloads)
-- SQL (structured relational systems)
+- Cloud Architecture on AWS  
+- Kubernetes (EKS) workload orchestration & scaling  
+- Infrastructure as Code using Terraform  
+- CI/CD pipeline design and automation  
+- Real-time systems using self-hosted LiveKit  
+- Backend systems using Node.js (API-driven architecture)  
 
 ---
 
-## 🏗️ 
----
+## Tech Stack
 
-### 🔹 Cloud-Native Infrastructure
-- Multi-environment setup (Dev / QA / Production)
-- Infrastructure fully managed using Terraform
-- Automated deployments via CI/CD pipelines
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
 
----
-
-### 🔹 Scalable Backend Systems
-- API-driven architecture using Node.js
-- Stateless services designed for horizontal scaling
-- Database integration with MongoDB and SQL
+- AWS (EKS, Amazon Connect, EC2, S3, IAM, CloudFront, CloudWatch)  
+- Kubernetes (HPA, scaling strategies, workload management)  
+- Terraform (modular Infrastructure as Code)  
 
 ---
 
-## 📂 Selected Work
+### DevOps & Automation
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 
-### 🌾 Farmer Direct Market
-Direct-to-customer platform for farmers.
-
-- Eliminates intermediaries
-- Real-time product listing and ordering
-
-**Stack:** React, Node.js, MongoDB  
+- CI/CD pipelines (GitHub Actions)  
+- Containerized workloads (Docker)  
+- Multi-environment deployments (dev / staging / production)  
 
 ---
 
-### 📦 Inventory Management System
-Inventory tracking system for small-scale operations.
+### Application Layer
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 
-- Product lifecycle & stock tracking
-- Structured data management
-
-**Stack:** Node.js, SQL  
-
----
-
-### 🍽️ Food Recipes Platform
-Content-driven application for discovering and saving recipes.
-
-**Stack:** React, Node.js, MongoDB  
+- React (frontend)  
+- Node.js (backend APIs, services)  
 
 ---
 
-## 📈 Current Focus
+### Data Layer
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?logo=database&logoColor=white)
 
-- Scaling workloads efficiently on Kubernetes (EKS)
-- Optimizing LiveKit deployments for high concurrency
-- Improving observability (logs, metrics, alerting)
-- Building robust CI/CD pipelines for faster delivery
-
----
-
-## 🌐 Languages
-
-- Gujarati (Native)
-- Hindi (Fluent)
-- English (Fluent)
+- MongoDB  
+- SQL  
 
 ---
 
-## 📫 Connect
+## System Experience
 
-- 📧 vasoya421@gmail.com  
-- 🔗 https://www.linkedin.com/in/vasoya-parth-82a69224b  
+### Cloud-Native Infrastructure
+- Multi-environment architecture (Dev / QA / Production)  
+- Infrastructure fully managed via Terraform  
+- Automated deployments using CI/CD pipelines  
+
+### Scalable Backend Systems
+- API-driven Node.js services  
+- Stateless design for horizontal scaling  
+- Integrated with MongoDB and SQL  
+
+### Real-Time Systems
+- Self-hosted LiveKit deployments  
+- Designed for scalability and low-latency communication  
+- Performance tuning for concurrent workloads  
 
 ---
 
-## ⚡ Philosophy
+## Selected Projects
 
-> Build systems that scale.  
-> Automate what repeats.  
-> Keep it simple, reliable, and fast.
+### Farmer Direct Market
+Direct-to-customer platform for farmers  
+
+- Eliminates intermediaries  
+- Real-time product listing and ordering  
+
+Stack: React, Node.js, MongoDB  
 
 ---
 
-### 🧩 Always building. Always improving. Moving toward cloud-native excellence.
+### Inventory Management System
+Inventory tracking system  
+
+- Product lifecycle and stock management  
+- Structured relational data handling  
+
+Stack: Node.js, SQL  
+
+---
+
+### Food Recipes Platform
+Recipe discovery and management platform  
+
+Stack: React, Node.js, MongoDB  
+
+---
+
+## Current Focus
+
+- Scaling Kubernetes workloads on EKS  
+- Optimizing LiveKit for high concurrency  
+- Improving observability (logs, metrics, alerting)  
+- Strengthening CI/CD pipelines  
+
+---
+
+## GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VasoyaParth&show_icons=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VasoyaParth&layout=compact&hide_border=true)
+
+---
+
+## Contact
+
+- Email: vasoya421@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/vasoya-parth-82a69224b  
+
+---
+
+## Engineering Principles
+
+- Build for scale, not just functionality  
+- Automate repetitive processes  
+- Keep systems observable and debuggable  
+- Prioritize reliability and simplicity  
+
+---
+
+Consistent execution over hype. Focused on building systems that work in production.
