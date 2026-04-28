@@ -114,10 +114,11 @@ Stack: React, Node.js, MongoDB
 
 ## Current Focus
 
-- Scaling Kubernetes workloads on EKS  
-- Optimizing LiveKit for high concurrency  
-- Improving observability (logs, metrics, alerting)  
-- Strengthening CI/CD pipelines  
+- Deepening AWS knowledge across production-grade services and architectures  
+- Building advanced Terraform modules for scalable, reusable infrastructure  
+- Optimizing Kubernetes (EKS) workloads for performance and cost efficiency  
+- Enhancing observability with robust logging, metrics, and alerting systems  
+- Evolving CI/CD pipelines for high-confidence, automated deployments  
 
 ---
 
