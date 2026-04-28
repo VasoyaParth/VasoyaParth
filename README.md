@@ -1,72 +1,125 @@
-# 👋 Hello, I'm Parth Vasoya
+# 🚀 Parth Vasoya
 
-🎓 Beginner Developer | Flutter & Full-Stack Enthusiast | Learning by Building
-
-Welcome to my GitHub profile! I'm currently learning and working on real-world projects to improve my skills in mobile and web development using Flutter, Node.js, .NET, and databases like MongoDB and SQL Server.
+### Cloud & DevOps Engineer • Kubernetes • Real-Time Systems • Full-Stack (React + Node)
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Who Am I
 
-- **Languages**: Dart, JavaScript, C#
-- **Mobile**: Flutter
-- **Backend**: Node.js, Express.js, .NET
-- **Databases**: MongoDB, SQL Server
-- **Tools**: Git, Postman, VS Code, Visual Studio
+I build and operate **scalable, production-grade systems**.
+
+Started with full-stack development, now focused on **cloud infrastructure, Kubernetes, and real-time communication platforms**. I don’t just write code — I design systems that run reliably under load.
 
 ---
 
-## 📁 Projects
+## ⚡ What I Do
+
+- Architect and manage **cloud-native infrastructure on AWS**
+- Deploy and scale applications on **Kubernetes (EKS)**
+- Build and operate **real-time systems using LiveKit (self-hosted)**
+- Design **CI/CD pipelines** for automated deployments
+- Work with **backend systems (Node.js)** and modern web apps (React)
+
+---
+
+## ☁️ Core Stack
+
+### 🚀 Cloud & Infrastructure
+- AWS (EKS, Amazon Connect (CCaaS), EC2, S3, IAM, CloudFront, CloudWatch)
+- Kubernetes (EKS, HPA, scaling strategies)
+- Terraform (modular Infrastructure as Code)
+
+### ⚙️ DevOps & Automation
+- GitHub Actions (CI/CD pipelines)
+- Docker (containerized workloads)
+- Environment-based deployments (development / staging / production)
+
+### 💻 Application Layer
+- React (frontend)
+- Node.js (backend APIs, services)
+
+### 🗄️ Data Layer
+- MongoDB (flexible NoSQL workloads)
+- SQL (structured relational systems)
+
+---
+
+## 🏗️ 
+---
+
+### 🔹 Cloud-Native Infrastructure
+- Multi-environment setup (Dev / QA / Production)
+- Infrastructure fully managed using Terraform
+- Automated deployments via CI/CD pipelines
+
+---
+
+### 🔹 Scalable Backend Systems
+- API-driven architecture using Node.js
+- Stateless services designed for horizontal scaling
+- Database integration with MongoDB and SQL
+
+---
+
+## 📂 Selected Work
 
 ### 🌾 Farmer Direct Market
-A mobile application where farmers can sell their products directly to customers without bargaining. Customers can browse and buy fresh produce straight from local farmers.
+Direct-to-customer platform for farmers.
 
-- **Frontend**: Flutter  
-- **Backend**: Node.js  
-- **Database**: MongoDB
+- Eliminates intermediaries
+- Real-time product listing and ordering
+
+**Stack:** React, Node.js, MongoDB  
 
 ---
 
 ### 📦 Inventory Management System
-A basic inventory management system to keep track of products, quantities, and categories. Suitable for small stores or warehouses.
+Inventory tracking system for small-scale operations.
 
-- **Backend**: .NET  
-- **Database**: SQL Server
+- Product lifecycle & stock tracking
+- Structured data management
 
----
-
-### 🍽️ Food Recipes App
-A recipe sharing and browsing app where users can explore different food items and their preparation steps. Users can also save their favorite recipes.
-
-- **Frontend**: Flutter  
-- **Backend**: Node.js  
-- **Database**: MongoDB
+**Stack:** Node.js, SQL  
 
 ---
 
-## 🏅 Certifications & Hackathons
+### 🍽️ Food Recipes Platform
+Content-driven application for discovering and saving recipes.
 
-- 🎖️ **ANVESHANA - A NATIONAL LEVEL HACKATHON 2024 (36 Hours)**  
-  Participated at Atmiya University — presented innovative project ideas and built practical solutions in a team environment.
-
-- 🛠️ **12-Hour Angular Workshop + Hackathon**  
-  Organized by Darshan University — worked on a real-time frontend project using Angular.
+**Stack:** React, Node.js, MongoDB  
 
 ---
 
-## 🌐 Languages Known
+## 📈 Current Focus
 
-- 💬 Gujarati (Native)
-- 💬 Hindi (Fluent)
-- 💬 English (Fluent)
-
----
-
-## 📫 Contact
-
-- 📧 Email: vasoya421@gmail.com 
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/your-linkedin-id](https://www.linkedin.com/in/vasoya-parth-82a69224b))
+- Scaling workloads efficiently on Kubernetes (EKS)
+- Optimizing LiveKit deployments for high concurrency
+- Improving observability (logs, metrics, alerting)
+- Building robust CI/CD pipelines for faster delivery
 
 ---
 
-Thanks for visiting my GitHub! I'm still learning and building — more projects coming soon 🚀
+## 🌐 Languages
+
+- Gujarati (Native)
+- Hindi (Fluent)
+- English (Fluent)
+
+---
+
+## 📫 Connect
+
+- 📧 vasoya421@gmail.com  
+- 🔗 https://www.linkedin.com/in/vasoya-parth-82a69224b  
+
+---
+
+## ⚡ Philosophy
+
+> Build systems that scale.  
+> Automate what repeats.  
+> Keep it simple, reliable, and fast.
+
+---
+
+### 🧩 Always building. Always improving. Moving toward cloud-native excellence.
