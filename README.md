@@ -130,20 +130,6 @@ Stack: React, Node.js, MongoDB
 <!-- 📈 Activity Graph -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VasoyaParth&theme=github-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-<!-- 🏆 GitHub Trophy -->
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=VasoyaParth&theme=onedark&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!-- 🐍 Snake Animation (Requires GitHub Action) -->
-![Snake animation](https://raw.githubusercontent.com/VasoyaParth/VasoyaParth/output/github-contribution-grid-snake-dark.svg)
-
-<!-- 👀 Profile Views -->
-![](https://komarev.com/ghpvc/?username=VasoyaParth&style=for-the-badge)
-
-<!-- ⌨️ Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Cloud+Engineer;AWS+%7C+Terraform+%7C+Kubernetes;DevOps+Enthusiast;Building+Cloud+Solutions)](https://git.io/typing-svg)
-
-<!-- 🏅 Holopin Badges (Replace YOUR_USERNAME) -->
-[![An image of @YOUR_USERNAME's Holopin badges](https://holopin.me/YOUR_USERNAME)](https://holopin.io/@YOUR_USERNAME)
 
 ---
 
