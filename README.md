@@ -27,8 +27,8 @@ My work focuses on **cloud-native infrastructure, Kubernetes orchestration, and 
 
 ### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 
 - AWS (EKS, Amazon Connect, EC2, S3, IAM, CloudFront, CloudWatch)  
 - Kubernetes (HPA, scaling strategies, workload management)  
@@ -124,8 +124,12 @@ Stack: React, Node.js, MongoDB
 
 ## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VasoyaParth&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VasoyaParth&layout=compact&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=VasoyaParth)
+![Trophy](https://github-profile-trophy.vercel.app/?username=VasoyaParth)
+![Snake animation](https://raw.githubusercontent.com/VasoyaParth/VasoyaParth/output/github-contribution-grid-snake-dark.svg)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VasoyaParth&theme=github-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=VasoyaParth&theme=onedark&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://komarev.com/ghpvc/?username=VasoyaParth&style=for-the-badge)
 
 ---
 
